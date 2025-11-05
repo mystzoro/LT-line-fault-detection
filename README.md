@@ -70,7 +70,7 @@ Together, they form an **automated, low-cost, and scalable fault detection syste
 Here’s how the **Smart Line Fault Detection setup** looks:
 
 <p align="center">
-  <img src="images/circuit_diagram.jpg" width="550" alt="Smart Line Fault Detection Circuit Setup">
+  <img src="circuit diagram.jpg" width="550" alt="Smart Line Fault Detection Circuit Setup">
 </p>
 
 ---
